@@ -1,33 +1,33 @@
-# _{My-first-webpage}_
+# _My-first-webpage_
 
-#### _{my personal webpage}, {4-18-17}_
+#### _my personal webpage, 4-18-17_
 
-#### By _**{Andrew Glines, John Dowd}**_
+#### By _**Andrew Glines, John Dowd**_
 
 ## Description
 
-_{This is my personal webpage that shows examples of cats and ice cream. Clickable links!}_
+_This is my personal webpage that shows examples of cats and ice cream. Clickable links!_
 
 ## Setup/Installation Requirements
 
 * _Go to Github - https://github.com/aglines/my-first-webpage
 * _Clone the page
-* _Click on the html file and it should open in the browser
+* _Click on the html file and it should open in the browser_
 
 ## Known Bugs
 
-_{Some image links may result in an error }_
+_Some image links may result in an error_
 
 ## Support and contact details
 
-_{Andrew Glines - aglines@gmail.com}_
+_Andrew Glines - aglines@gmail.com_
 
 ## Technologies Used
 
-_{HTML is really cool!}_
+_HTML is really cool!_
 
 ### License
 
-*{Open source applies to all. Use at your own risk}*
+*Open source applies to all. Use at your own risk*
 
 Copyright (c) 2016 **_{Andrew Glines, John Dowd - Epicodus}_**
